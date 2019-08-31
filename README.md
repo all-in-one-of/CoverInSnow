@@ -1,4 +1,5 @@
-StaticSnow.hdanc is a Houdini Digital Asset which allows the user to cover an object in snow.
+
+# StaticSnow.hdanc is a Houdini Digital Asset which allows the user to cover an object in snow.
 
 An example showing the digital asset in use is given in SnowCover_Example.hipnc and an example geometry to cover is given by Quercus_Rubra_Mature.obj
 
